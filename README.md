@@ -1,4 +1,4 @@
-# Audio Signal Processing Toolkit
+# Audio Signal Processing in PyTorch
 
 This project is a complete reimplementation of Valerio Velardo's Audio Signal Processing Course using PyTorch instead of librosa. It preserves the same concepts and algorithms while leveraging PyTorch's GPU acceleration capabilities and deep learning integration.
 
